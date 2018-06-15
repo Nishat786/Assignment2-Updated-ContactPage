@@ -1,0 +1,35 @@
+.auto-style1 {
+	vertical-align: text-top;
+	border-style: solid;
+	border-width: 2px;
+}
+.auto-style2 {
+	font-size: x-large;
+	text-decoration: underline;
+}
+address {
+	background-color: #000000;
+	border-color: #0000FF;
+	font-size: 30px;
+}
+.auto-style3 {
+	font-family: Algerian;
+}
+.auto-style4 {
+	color: #000000;
+}
+.auto-style5 {
+	vertical-align: text-top;
+	border-style: solid;
+	border-width: 4px;
+}
+.auto-style6 {
+	font-size: large;
+}
+li {
+	font-size: 25px;
+	font-family: algerian;
+	text-underline-position: below;
+}
+            
+        

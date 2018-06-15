@@ -1,0 +1,22 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	width: 760px;
+	margin-right: auto;
+	margin-left: auto;
+	border-radius: 4px;
+	box-shadow: 4px 4px 4px;
+	background-image:url('./asstes/images/bg.jpg');
+    background-position:center;
+}
+address{
+	background-color: black;
+}
+.auto-style1 {
+	margin-left: 0px;
+}
+.auto-style2 {
+	vertical-align: top;
+}
+address{
+	font-size: 30px;
+}

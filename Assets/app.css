@@ -1,0 +1,25 @@
+.auto-style1 {
+	border-style: solid;
+	border-width: 3px;
+	margin-right: 4px;
+	vertical-align: text-top;
+}
+.auto-style2 {
+	text-decoration: underline;
+	font-family: "Franklin Gothic Medium";
+	font-size: xx-large;
+}
+.auto-style3 {
+	vertical-align: top;
+}
+.auto-style4 {
+	color: #000000;
+}
+address{
+	font-size: 30px;
+}
+body{
+	background-image:url('images/n2.jpg');
+	font-family: algerian;
+   }
+   
