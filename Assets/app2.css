@@ -8,6 +8,9 @@ body {
 	background-image:url('./asstes/images/bg.jpg');
     background-position:center;
 }
+h5 {
+	  text-align: center;
+}
 address{
 	background-color: black;
 }
